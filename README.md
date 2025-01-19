@@ -1,2 +1,2 @@
 # javascript
- primeiro repositorio
+Primeiros passos de javascript
